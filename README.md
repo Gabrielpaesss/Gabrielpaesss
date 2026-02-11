@@ -1,14 +1,17 @@
-# 👋 Olá, eu sou o Gabriel
+# 👋 Hi, I'm Gabriel
 
-Sou iniciante em programação e atualmente estou estudando **Python**, **Git/GitHub** e conceitos de **IA aplicada**.  
-Meu foco é aprender através de projetos práticos e evolução contínua.
+I'm a beginner software developer currently studying **Python**, **Git/GitHub**, and concepts of **Applied Artificial Intelligence**.
 
-##  O que estou estudando no momento
-- Python (lógica, automação, scripts)
-- Git e GitHub
-- Fundamentos de programação
-- Introdução à Inteligência Artificial
+My focus is to learn through practical projects and continuous improvement.
 
-## 📫 Contato
+## 🚀 Currently Learning
+
+- Python (logic, automation, scripts)
+- Git and GitHub
+- Programming fundamentals
+- Introduction to Artificial Intelligence
+
+## 📫 Contact
+
 - LinkedIn: https://www.linkedin.com/in/gabriel-paes-carvalho
 - Email: gabriel.p.carva@gmail.com
