@@ -3,7 +3,7 @@
 Sou iniciante em programação e atualmente estou estudando **Python**, **Git/GitHub** e conceitos de **IA aplicada**.  
 Meu foco é aprender através de projetos práticos e evolução contínua.
 
-## 🚀 O que estou estudando no momento
+##  O que estou estudando no momento
 - Python (lógica, automação, scripts)
 - Git e GitHub
 - Fundamentos de programação
